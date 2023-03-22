@@ -1,0 +1,21 @@
+{
+  "name": "learnexpressroutes",
+  "version": "1.0.0",
+  "description": "Beginning To Work With Express.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "Back-end",
+    "Development"
+  ],
+  "author": "Cesar David Millan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
